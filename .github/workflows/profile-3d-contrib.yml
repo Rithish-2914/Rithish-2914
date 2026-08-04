@@ -2,13 +2,14 @@ name: Generate 3D Contribution Skyline
 
 on:
   schedule:
-    - cron: "0 0 * * *"   # runs daily at midnight UTC
-  workflow_dispatch: {}
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
 
 jobs:
   build:
-    permissions:
-      contents: write
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v5
@@ -21,8 +22,9 @@ jobs:
 
       - name: Commit and push generated SVGs
         run: |
-          git config user.name github-actions
-          git config user.email github-actions@github.com
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add -A
-          git commit -m "docs(profile): update 3D contribution graph" || echo "no changes"
+          git diff --cached --quiet && exit 0
+          git commit -m "docs(profile): update 3D contribution graph"
           git push
