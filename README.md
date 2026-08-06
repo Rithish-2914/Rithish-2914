@@ -197,12 +197,12 @@ Intelligent auto-scrolling solution with smart content detection and speed contr
 
 <div align="center">
 
-<img height="165" src="https://raw.githubusercontent.com/Rithish-2914/Rithish-2914/output/profile-summary-card-output/tokyonight/0-profile-details.svg" />
-<img height="165" src="https://raw.githubusercontent.com/Rithish-2914/Rithish-2914/output/profile-summary-card-output/tokyonight/1-repos-per-language.svg" />
+<img height="165" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rithish-2914&theme=tokyonight" />
+<img height="165" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Rithish-2914&theme=tokyonight" />
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Rithish-2914&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.demolab.com/?user=Rithish-2914&theme=tokyonight&hide_border=true" />
 
 <br/>
 
