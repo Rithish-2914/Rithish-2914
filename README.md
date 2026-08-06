@@ -13,6 +13,10 @@
 <a href="https://www.linkedin.com/in/rithishbajjuri/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:bajjuririthish521@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=Rithish-2914&label=Profile%20Views&color=6366f1&style=for-the-badge" alt="Profile views"/>
+
 </div>
 
 <br/>
@@ -31,40 +35,50 @@ I founded my own **clothing brand** and have developed multiple projects includi
 
 <br/>
 
+<div align="center">
+
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+</div>
+
+<br/>
+
 <!-- ===================== TECH STACK ===================== -->
 ## 🛠️ Technical Skills
 
-<!-- 👉 Add/remove badges here as your skills grow -->
+<!-- 👉 Add/remove icon names here as your skills grow: https://skillicons.dev -->
+
+<div align="center">
 
 **Languages**
 <br/>
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+<img src="https://skillicons.dev/icons?i=python,js,ts&theme=dark" />
+
+<br/><br/>
 
 **Frontend**
 <br/>
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+<img src="https://skillicons.dev/icons?i=react,nextjs,html,css&theme=dark" />
+
+<br/><br/>
 
 **Backend**
 <br/>
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+<img src="https://skillicons.dev/icons?i=nodejs,express,django&theme=dark" />
+
+<br/><br/>
 
 **Databases**
 <br/>
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+<img src="https://skillicons.dev/icons?i=postgres,mongodb&theme=dark" />
+
+<br/><br/>
 
 **Tools & Platforms**
 <br/>
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![AI Prompting](https://img.shields.io/badge/AI_Prompting-412991?style=for-the-badge&logo=openai&logoColor=white)
+<img src="https://skillicons.dev/icons?i=git,docker,vercel&theme=dark" />
+
+</div>
 
 <br/>
 
@@ -207,6 +221,24 @@ Intelligent auto-scrolling solution with smart content detection and speed contr
 <br/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rithish-2914&theme=tokyo-night&hide_border=true" width="100%"/>
+
+<br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=Rithish-2914&theme=tokyonight&no-frame=true&row=1&column=7" />
+
+</div>
+
+<br/>
+
+<!-- ===================== PINNED PROJECTS ===================== -->
+## 📌 Top Repositories
+
+<!-- 👉 Swap in your actual pinned repo names -->
+
+<div align="center">
+
+<a href="https://github.com/Rithish-2914"><img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=Rithish-2914&repo=kmrl-dashboard&theme=tokyonight&hide_border=true"/></a>
+<a href="https://github.com/Rithish-2914"><img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=Rithish-2914&repo=deepwork-ai&theme=tokyonight&hide_border=true"/></a>
 
 </div>
 
