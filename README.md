@@ -224,7 +224,7 @@ Intelligent auto-scrolling solution with smart content detection and speed contr
 
 <br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=Rithish-2914&theme=tokyonight&no-frame=true&row=1&column=7" />
+<img src="https://github-profile-trophy-fork-two.vercel.app/?username=Rithish-2914&theme=tokyonight&no-frame=true&row=1&column=7" />
 
 </div>
 
@@ -237,8 +237,8 @@ Intelligent auto-scrolling solution with smart content detection and speed contr
 
 <div align="center">
 
-<a href="https://github.com/Rithish-2914"><img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=Rithish-2914&repo=kmrl-dashboard&theme=tokyonight&hide_border=true"/></a>
-<a href="https://github.com/Rithish-2914"><img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=Rithish-2914&repo=deepwork-ai&theme=tokyonight&hide_border=true"/></a>
+<a href="https://github.com/Rithish-2914/SmartSheild"><img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=Rithish-2914&repo=SmartSheild&theme=tokyonight&hide_border=true"/></a>
+<a href="https://github.com/Rithish-2914/PORTFOLIO"><img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=Rithish-2914&repo=PORTFOLIO&theme=tokyonight&hide_border=true"/></a>
 
 </div>
 
