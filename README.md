@@ -212,6 +212,25 @@ Intelligent auto-scrolling solution with smart content detection and speed contr
 
 <br/>
 
+<!-- ===================== CONTRIBUTION GRAPH ===================== -->
+## 🐍 Contribution Graph
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Rithish-2914/Rithish-2914/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Rithish-2914/Rithish-2914/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Rithish-2914/Rithish-2914/output/github-contribution-grid-snake.svg" width="100%"/>
+</picture>
+
+<br/><br/>
+
+<img src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D Contribution Skyline"/>
+
+</div>
+
+<br/>
+
 <!-- ===================== ACHIEVEMENTS ===================== -->
 ## 🏆 Achievements & Certifications
 
