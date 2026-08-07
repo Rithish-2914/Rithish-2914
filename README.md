@@ -1,4 +1,3 @@
-<!-- ===================== HERO BANNER ===================== -->
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,100:06b6d4&height=220&section=header&text=Hi%20There,%20I'm%20Rithish%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Entrepreneur&descAlignY=55&descSize=18" width="100%"/>
@@ -16,12 +15,26 @@
 <br/><br/>
 
 <img src="https://komarev.com/ghpvc/?username=Rithish-2914&label=Profile%20Views&color=6366f1&style=for-the-badge" alt="Profile views"/>
+<img src="https://img.shields.io/github/followers/Rithish-2914?label=Followers&style=for-the-badge&color=6366f1&logo=github"/>
+<img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/Rithish-2914&label=Public%20Repos&query=$.public_repos&style=for-the-badge&color=6366f1&logo=github"/>
 
 </div>
 
 <br/>
 
-<!-- ===================== ABOUT ME ===================== -->
+```json
+{
+  "name": "Bajjuri Rithish",
+  "age": 17,
+  "location": "Hyderabad, India",
+  "role": "Full-Stack Developer & Entrepreneur",
+  "education": "B.Tech IT, VIT Vellore",
+  "record": "Guinness World Record — Youngest to launch startups made solo",
+  "currentFocus": ["Agentic AI", "Real-world problem solving"],
+  "openTo": ["Freelance", "Open Source", "Research", "Startups"]
+}
+```
+
 ## 🧠 About Me
 
 Hello! I'm **Bajjuri Rithish**, a 17-year-old young entrepreneur based in **Hyderabad, India**. I'm passionate about building solutions that make a real impact. As a **Guinness World Record holder** for being the youngest to launch startups made solo, I've turned my vision into reality through dedication and innovation.
@@ -43,10 +56,7 @@ I founded my own **clothing brand** and have developed multiple projects includi
 
 <br/>
 
-<!-- ===================== TECH STACK ===================== -->
 ## 🛠️ Technical Skills
-
-<!-- 👉 Add/remove icon names here as your skills grow: https://skillicons.dev -->
 
 <div align="center">
 
@@ -82,11 +92,8 @@ I founded my own **clothing brand** and have developed multiple projects includi
 
 <br/>
 
-<!-- ===================== FEATURED PROJECTS ===================== -->
 ## 🚀 Featured Projects
 > Building solutions that make a real impact
-
-<!-- 👉 Update the GitHub/Live links below to your actual project URLs -->
 
 <table>
 <tr>
@@ -202,11 +209,29 @@ Intelligent auto-scrolling solution with smart content detection and speed contr
 
 </td>
 </tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 🛡️ SmartShield
+Real-time protection system built with a focus on security and reliability.
+
+`Security` `Full-Stack`
+
+</td>
+<td width="50%" valign="top">
+
+### 💼 Portfolio
+Personal developer portfolio showcasing projects, skills, and experience.
+
+`Next.js` `TypeScript` `Vercel`
+
+</td>
+</tr>
 </table>
 
 <br/>
 
-<!-- ===================== GITHUB STATS ===================== -->
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -222,29 +247,10 @@ Intelligent auto-scrolling solution with smart content detection and speed contr
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rithish-2914&theme=tokyo-night&hide_border=true" width="100%"/>
 
-<br/>
-
-<img src="https://github-profile-trophy-fork-two.vercel.app/?username=Rithish-2914&theme=tokyonight&no-frame=true&row=1&column=7" />
-
 </div>
 
 <br/>
 
-<!-- ===================== PINNED PROJECTS ===================== -->
-## 📌 Top Repositories
-
-<!-- 👉 Swap in your actual pinned repo names -->
-
-<div align="center">
-
-<a href="https://github.com/Rithish-2914/SmartSheild"><img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=Rithish-2914&repo=SmartSheild&theme=tokyonight&hide_border=true"/></a>
-<a href="https://github.com/Rithish-2914/PORTFOLIO"><img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=Rithish-2914&repo=PORTFOLIO&theme=tokyonight&hide_border=true"/></a>
-
-</div>
-
-<br/>
-
-<!-- ===================== CONTRIBUTION GRAPH ===================== -->
 ## 🐍 Contribution Graph
 
 <div align="center">
@@ -263,7 +269,6 @@ Intelligent auto-scrolling solution with smart content detection and speed contr
 
 <br/>
 
-<!-- ===================== ACHIEVEMENTS ===================== -->
 ## 🏆 Achievements & Certifications
 
 **Achievements**
@@ -280,7 +285,6 @@ Intelligent auto-scrolling solution with smart content detection and speed contr
 
 <br/>
 
-<!-- ===================== CURRENTLY LEARNING ===================== -->
 ## 📚 Currently Learning
 
 - 🤖 Agentic AI
@@ -288,7 +292,6 @@ Intelligent auto-scrolling solution with smart content detection and speed contr
 
 <br/>
 
-<!-- ===================== COLLABORATION ===================== -->
 ## 🤝 Open to Collaborate On
 
 - 🌐 Open-source projects
@@ -298,7 +301,6 @@ Intelligent auto-scrolling solution with smart content detection and speed contr
 
 <br/>
 
-<!-- ===================== CONNECT ===================== -->
 ## 📫 Connect With Me
 
 <div align="center">
