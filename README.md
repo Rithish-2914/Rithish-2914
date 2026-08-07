@@ -265,7 +265,58 @@ Personal developer portfolio showcasing projects, skills, and experience.
 
 <img src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D Contribution Skyline"/>
 
+<br/><br/>
+
+<img src="https://ghchart.rshah.org/6366f1/Rithish-2914" width="100%" alt="GitHub Contribution Chart"/>
+
 </div>
+
+<br/>
+
+## 📌 Top Repositories
+
+<table>
+<tr>
+<td width="50%">
+
+### 🛡️ [SmartShield](https://github.com/Rithish-2914/SmartSheild)
+
+<img src="https://img.shields.io/github/stars/Rithish-2914/SmartSheild?style=for-the-badge&color=6366f1&logo=github"/>
+<img src="https://img.shields.io/github/last-commit/Rithish-2914/SmartSheild?style=for-the-badge&color=06b6d4"/>
+
+</td>
+<td width="50%">
+
+### 💼 [Portfolio](https://github.com/Rithish-2914/PORTFOLIO)
+
+<img src="https://img.shields.io/github/stars/Rithish-2914/PORTFOLIO?style=for-the-badge&color=6366f1&logo=github"/>
+<img src="https://img.shields.io/github/last-commit/Rithish-2914/PORTFOLIO?style=for-the-badge&color=06b6d4"/>
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+<img src="https://api.star-history.com/svg?repos=Rithish-2914/SmartSheild,Rithish-2914/PORTFOLIO&type=Date&theme=dark" width="100%" alt="Star History Chart"/>
+
+</div>
+
+<br/>
+
+## ⚡ Currently Building
+
+```bash
+$ whoami
+rithish@dev:~$ status --check
+
+[✓] Shipping AI-powered products
+[✓] Exploring agentic workflows
+[✓] Open for freelance & collabs
+[ ] Sleeping enough
+
+$ echo "let's build something great"
+```
 
 <br/>
 
