@@ -221,7 +221,7 @@ Real-time protection system built with a focus on security and reliability.
 </td>
 <td width="50%" valign="top">
 
-### 💼 Portfolio
+### 💼 [Portfolio](https://github.com/Rithish-2914/Rithish-Portfolio)
 Personal developer portfolio showcasing projects, skills, and experience.
 
 `Next.js` `TypeScript` `Vercel`
@@ -273,34 +273,69 @@ Personal developer portfolio showcasing projects, skills, and experience.
 
 <br/>
 
-## 📌 Top Repositories
+## 📌 Flagship Repositories
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🛡️ [SmartShield](https://github.com/Rithish-2914/SmartSheild)
+### 🛰️ [TerraSense-IDP](https://github.com/Rithish-2914/TerraSense-IDP)
+AI-powered landslide risk prediction and geospatial intelligence engine.
 
-<img src="https://img.shields.io/github/stars/Rithish-2914/SmartSheild?style=for-the-badge&color=6366f1&logo=github"/>
-<img src="https://img.shields.io/github/last-commit/Rithish-2914/SmartSheild?style=for-the-badge&color=06b6d4"/>
+<img src="https://img.shields.io/github/stars/Rithish-2914/TerraSense-IDP?style=flat-square&color=6366f1"/>
+<img src="https://img.shields.io/github/last-commit/Rithish-2914/TerraSense-IDP?style=flat-square&color=06b6d4"/>
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 💼 [Portfolio](https://github.com/Rithish-2914/PORTFOLIO)
+### 🚇 [KMRL-SIH2025](https://github.com/Rithish-2914/KMRL-SIH2025)
+Smart document assistant and workflow system for Kochi Metro Rail Limited.
 
-<img src="https://img.shields.io/github/stars/Rithish-2914/PORTFOLIO?style=for-the-badge&color=6366f1&logo=github"/>
-<img src="https://img.shields.io/github/last-commit/Rithish-2914/PORTFOLIO?style=for-the-badge&color=06b6d4"/>
+<img src="https://img.shields.io/github/stars/Rithish-2914/KMRL-SIH2025?style=flat-square&color=6366f1"/>
+<img src="https://img.shields.io/github/last-commit/Rithish-2914/KMRL-SIH2025?style=flat-square&color=06b6d4"/>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🏥 [medverse-1.0](https://github.com/Rithish-2914/medverse-1.0)
+Comprehensive healthcare hackathon platform with live twist reveals and judging rubrics.
+
+<img src="https://img.shields.io/github/stars/Rithish-2914/medverse-1.0?style=flat-square&color=6366f1"/>
+<img src="https://img.shields.io/github/last-commit/Rithish-2914/medverse-1.0?style=flat-square&color=06b6d4"/>
+
+</td>
+<td width="50%" valign="top">
+
+### 🛡️ [SmartShield](https://github.com/Rithish-2914/SmartSheild)
+Real-time automotive road safety, driver aggression scoring, and hazard maps.
+
+<img src="https://img.shields.io/github/stars/Rithish-2914/SmartSheild?style=flat-square&color=6366f1"/>
+<img src="https://img.shields.io/github/last-commit/Rithish-2914/SmartSheild?style=flat-square&color=06b6d4"/>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 📚 [papers-codechef](https://github.com/Rithish-2914/papers-codechef)
+Previous year question papers platform by CodeChef-VIT to help students excel.
+
+<img src="https://img.shields.io/badge/Open%20Source-CodeChef--VIT-orange?style=flat-square"/>
+
+</td>
+<td width="50%" valign="top">
+
+### 💼 [Rithish-Portfolio](https://github.com/Rithish-2914/Rithish-Portfolio)
+Personal interactive developer portfolio built with Next.js, TypeScript, and modern animations.
+
+<img src="https://img.shields.io/github/stars/Rithish-2914/Rithish-Portfolio?style=flat-square&color=6366f1"/>
+<img src="https://img.shields.io/github/last-commit/Rithish-2914/Rithish-Portfolio?style=flat-square&color=06b6d4"/>
 
 </td>
 </tr>
 </table>
-
-<div align="center">
-
-<img src="https://api.star-history.com/svg?repos=Rithish-2914/SmartSheild,Rithish-2914/PORTFOLIO&type=Date&theme=dark" width="100%" alt="Star History Chart"/>
-
-</div>
 
 <br/>
 
